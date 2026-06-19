@@ -1,0 +1,1001 @@
+cliente_id,nome,idade,cidade,renda
+1,Ísis Novais,58,São Paulo,2087.75
+2,Marcos Vinicius Cavalcanti,35,Rio de Janeiro,6745.45
+3,Ana Barros,65,São Paulo,17402.44
+4,João Pastor,75,Porto Alegre,3543.06
+5,João Felipe Rios,45,São Paulo,2200.23
+6,Raquel Nascimento,31,Rio de Janeiro,13375.85
+7,Lívia Fonseca,19,Porto Alegre,6172.68
+8,Benjamim Pimenta,59,Salvador,14306.12
+9,Sr. Luiz Henrique Souza,32,Curitiba,15347.74
+10,Lorena da Cruz,69,São Paulo,19331.97
+11,Marcela Monteiro,28,Salvador,11431.44
+12,Alexandre Silveira,35,Rio de Janeiro,6559.87
+13,Vinícius Sousa,66,Belo Horizonte,3901.94
+14,Pedro Miguel Barros,42,São Paulo,9936.02
+15,Samuel Aparecida,40,Porto Alegre,7716.24
+16,Sr. Benicio da Rosa,20,Salvador,12296.48
+17,Davi Lucca Santos,25,Curitiba,3351.8
+18,Otto Araújo,36,Salvador,16035.21
+19,Ana Liz Abreu,73,Belo Horizonte,15067.78
+20,Valentim Machado,63,São Paulo,2576.87
+21,Gustavo Campos,32,Belo Horizonte,24652.71
+22,Luan Pacheco,72,Rio de Janeiro,21862.37
+23,João Gabriel Nogueira,42,Belo Horizonte,12155.14
+24,Juliana Correia,71,Belo Horizonte,5322.37
+25,Yasmin Guerra,40,Rio de Janeiro,17249.12
+26,Clarice Marques,62,Salvador,16728.83
+27,Maria Alice Cavalcanti,56,Salvador,5521.76
+28,Eloá Azevedo,64,Rio de Janeiro,5339.96
+29,Dra. Mirella Freitas,42,Belo Horizonte,24753.8
+30,Ana Liz Nogueira,58,Salvador,14588.32
+31,Maya Montenegro,61,Belo Horizonte,21307.02
+32,Vinícius Araújo,67,São Paulo,6882.63
+33,Yasmin Fonseca,20,Belo Horizonte,10927.37
+34,Rebeca Nascimento,22,Rio de Janeiro,22958.7
+35,Aylla Pacheco,54,Salvador,8894.93
+36,Rael Silva,59,Curitiba,10797.35
+37,Isis Fonseca,59,Curitiba,4857.48
+38,Vicente Fogaça,26,Rio de Janeiro,19007.24
+39,Otto Farias,52,Belo Horizonte,19054.82
+40,Bruno Novaes,45,Porto Alegre,10885.91
+41,Bruno Rezende,32,Rio de Janeiro,13473.87
+42,Ana Clara Gomes,23,São Paulo,21735.92
+43,Beatriz da Rosa,27,Salvador,5259.58
+44,Vitória Rocha,61,Curitiba,15515.61
+45,Henrique Santos,42,Curitiba,15503.38
+46,Gabriela Cardoso,47,Porto Alegre,7408.23
+47,Dra. Maria Clara Mendes,53,São Paulo,17486.66
+48,Lucas Gabriel Rocha,25,Salvador,22292.53
+49,Raquel Moraes,66,Belo Horizonte,19562.07
+50,Matheus das Neves,39,São Paulo,8397.25
+51,Maysa Albuquerque,28,Curitiba,1576.26
+52,Maria Helena Pimenta,64,Salvador,7689.64
+53,Manuella Barros,50,Rio de Janeiro,13430.52
+54,Anna Liz Campos,24,Salvador,8513.45
+55,Alexia da Paz,58,Porto Alegre,15810.8
+56,Lorenzo Garcia,27,Belo Horizonte,19419.0
+57,Aylla Lima,52,Porto Alegre,23084.6
+58,José Miguel da Luz,56,Belo Horizonte,12982.23
+59,Sr. Théo Teixeira,25,Belo Horizonte,22149.96
+60,Stephany Fonseca,71,Belo Horizonte,7127.13
+61,Eduarda Cardoso,33,Porto Alegre,23753.31
+62,Ana Laura Siqueira,23,Salvador,12920.78
+63,Antonella Machado,22,Porto Alegre,19497.11
+64,Raquel Casa Grande,26,Salvador,12669.14
+65,Srta. Ana Julia Correia,53,Rio de Janeiro,7728.83
+66,Maria Julia Lopes,73,Porto Alegre,11443.74
+67,José Miguel Sales,31,Porto Alegre,19248.73
+68,Josué Souza,62,Rio de Janeiro,18254.3
+69,Enzo Gabriel das Neves,43,Salvador,16772.13
+70,Thales da Costa,46,Porto Alegre,12109.92
+71,Luiza da Luz,33,Rio de Janeiro,3004.61
+72,Antony Andrade,19,Porto Alegre,14517.16
+73,Otávio Pimenta,55,Rio de Janeiro,1668.98
+74,Noah Brito,63,Salvador,2883.53
+75,Milena Pacheco,22,São Paulo,21701.43
+76,Ana Sophia Jesus,22,Porto Alegre,7093.11
+77,Davi Lucas Viana,60,Curitiba,6534.56
+78,Kaique Cavalcante,26,Salvador,23484.58
+79,Anna Liz Costela,54,Porto Alegre,12607.77
+80,Igor Novais,68,Curitiba,20476.18
+81,Dr. Benicio Rocha,30,São Paulo,3777.87
+82,Sr. Anthony Teixeira,45,Belo Horizonte,11454.1
+83,Catarina Pinto,47,Salvador,2773.02
+84,Rhavi Borges,59,Salvador,3812.82
+85,Ana Laura Moura,43,Salvador,9473.61
+86,Theo Leão,73,São Paulo,7343.42
+87,João Nascimento,30,Porto Alegre,12042.42
+88,Maysa Souza,45,Rio de Janeiro,8045.81
+89,Maria da Costa,33,São Paulo,11913.57
+90,Maria Luísa Oliveira,73,Porto Alegre,3800.86
+91,Anthony da Mata,59,Porto Alegre,21146.65
+92,Raul da Conceição,23,Rio de Janeiro,5408.31
+93,Maria Eduarda da Paz,49,Curitiba,6523.06
+94,Luiz Felipe da Luz,43,São Paulo,5368.97
+95,Enrico Costela,18,Curitiba,7732.27
+96,Luan Araújo,68,Curitiba,8203.36
+97,Sofia Lima,62,Salvador,24892.43
+98,Nicolas Porto,53,Salvador,18382.59
+99,Dr. Bruno Machado,27,Rio de Janeiro,8472.63
+100,Helena Viana,21,Porto Alegre,18789.82
+101,Isis Porto,21,Salvador,8869.71
+102,Joana Duarte,21,Porto Alegre,12704.53
+103,Laura Nogueira,72,Porto Alegre,5199.67
+104,Dr. Vinícius Ramos,50,São Paulo,21506.55
+105,Beatriz Guerra,22,Porto Alegre,3097.08
+106,Srta. Maysa Dias,73,Rio de Janeiro,10988.73
+107,Otávio Souza,74,Porto Alegre,7286.06
+108,Gustavo Henrique Cavalcanti,56,São Paulo,16055.47
+109,Melissa Andrade,44,Salvador,15216.3
+110,Sra. Alexia Pimenta,51,Belo Horizonte,23465.6
+111,Isabella Lima,31,Salvador,18330.51
+112,Ágatha Farias,33,Belo Horizonte,10800.97
+113,Maria Alice Teixeira,60,Salvador,8549.93
+114,Srta. Ana Carolina Rios,38,São Paulo,1718.91
+115,Rhavi da Luz,57,Porto Alegre,24908.27
+116,Alícia Araújo,22,Porto Alegre,6509.13
+117,Esther Pastor,34,Rio de Janeiro,23431.6
+118,Srta. Ana Laura da Mata,74,São Paulo,22162.85
+119,Olívia Novaes,41,Belo Horizonte,5207.05
+120,Ana Julia das Neves,71,Porto Alegre,18033.19
+121,Gustavo Pimenta,57,Salvador,13930.11
+122,Ana Carolina Teixeira,60,Porto Alegre,8535.4
+123,Anna Liz Teixeira,60,São Paulo,23564.86
+124,Maria Júlia Casa Grande,26,Belo Horizonte,4212.57
+125,Ana Liz Montenegro,24,Salvador,14500.76
+126,Mariana Novaes,35,Belo Horizonte,15713.5
+127,Sra. Camila Lopes,63,Belo Horizonte,6284.54
+128,Ana Clara Cavalcanti,58,Belo Horizonte,13377.11
+129,Renan Casa Grande,34,São Paulo,3669.01
+130,Vicente da Rocha,45,Belo Horizonte,2536.04
+131,Maria Eduarda Pires,39,Rio de Janeiro,16472.16
+132,Henry Câmara,34,Rio de Janeiro,18918.93
+133,Marcelo Pinto,53,Salvador,11550.64
+134,Lunna Machado,18,São Paulo,3268.23
+135,Luiz Henrique Albuquerque,74,Salvador,22742.32
+136,Luiz Fernando Farias,52,São Paulo,21112.98
+137,Maria Liz da Mota,55,Porto Alegre,4980.2
+138,Eloá Gonçalves,26,São Paulo,8744.07
+139,Mathias Araújo,75,São Paulo,22624.73
+140,Srta. Melina Viana,31,Salvador,7363.95
+141,Henry Gabriel Mendes,24,Belo Horizonte,19832.73
+142,Juan Sousa,74,Curitiba,24385.17
+143,Dra. Raquel Garcia,65,Rio de Janeiro,23255.45
+144,Dr. João Santos,33,Rio de Janeiro,24440.84
+145,Josué das Neves,69,Rio de Janeiro,22213.28
+146,Carlos Eduardo Câmara,19,Rio de Janeiro,18809.27
+147,Hellena Vargas,39,Curitiba,20352.53
+148,Isaac Vasconcelos,73,Salvador,20552.61
+149,Laís da Mata,35,Rio de Janeiro,20003.3
+150,Davi Miguel Gomes,24,Curitiba,21995.92
+151,Maria Alice Jesus,72,Curitiba,6727.19
+152,Gael Henrique Martins,70,Curitiba,9716.97
+153,Pedro Jesus,70,Rio de Janeiro,6738.7
+154,Pietra Correia,60,Rio de Janeiro,10863.95
+155,Carolina Sousa,35,São Paulo,24221.89
+156,Maria Luiza Pinto,35,Belo Horizonte,16574.82
+157,Raquel Cardoso,43,Salvador,24557.02
+158,Srta. Maria Julia Aparecida,52,Belo Horizonte,23572.07
+159,Sr. Heitor Mendes,25,Belo Horizonte,5696.34
+160,Kaique Marques,34,São Paulo,4047.46
+161,Enzo Gabriel Correia,45,Belo Horizonte,18620.81
+162,José Pedro Dias,38,Curitiba,15745.91
+163,Diogo Siqueira,50,São Paulo,10552.09
+164,Diogo Jesus,54,Rio de Janeiro,7485.98
+165,Sr. Yuri Pires,63,Curitiba,1539.75
+166,Danilo Cassiano,69,Porto Alegre,17641.14
+167,Isadora Aparecida,65,Salvador,17259.77
+168,Dr. Yan Araújo,41,Curitiba,3144.38
+169,Dra. Luna Brito,60,Belo Horizonte,16144.15
+170,Maria Flor Costela,60,São Paulo,18414.23
+171,Kevin Cavalcanti,37,Porto Alegre,8768.19
+172,Maria Nogueira,44,Belo Horizonte,10956.41
+173,Calebe Pimenta,36,Porto Alegre,4491.26
+174,Larissa Cirino,44,Salvador,23598.55
+175,Sr. Pedro Peixoto,61,Salvador,22715.93
+176,Brayan Nascimento,57,Porto Alegre,8572.32
+177,Henrique Cassiano,53,São Paulo,8641.06
+178,Enzo Peixoto,31,Curitiba,19965.33
+179,Guilherme Machado,56,Salvador,9072.86
+180,João Pedro da Mata,46,Curitiba,17377.24
+181,Luiz Henrique Lopes,50,Curitiba,20152.78
+182,Maria Luiza Teixeira,68,Salvador,5487.75
+183,Srta. Sophia Moreira,23,Belo Horizonte,13613.12
+184,Sr. Bento Sampaio,58,Porto Alegre,9376.92
+185,Stella Jesus,70,Rio de Janeiro,17310.7
+186,Otávio da Luz,32,Rio de Janeiro,4962.82
+187,Pedro Henrique Jesus,20,Rio de Janeiro,24622.5
+188,Sra. Jade Camargo,57,São Paulo,12202.28
+189,Clarice Duarte,74,Salvador,15028.27
+190,Thiago Farias,63,Salvador,10523.49
+191,Lavínia das Neves,43,Rio de Janeiro,4967.93
+192,Gabriela da Mota,62,São Paulo,22477.51
+193,Stephany Moraes,73,São Paulo,19792.88
+194,Antonella da Mata,32,Rio de Janeiro,20396.58
+195,Maria Luiza Gomes,62,Porto Alegre,12416.92
+196,Caio Nascimento,53,Rio de Janeiro,23060.55
+197,Kevin Ramos,25,Curitiba,4633.47
+198,Clarice da Luz,47,Salvador,13981.6
+199,Laís Ribeiro,53,Porto Alegre,8956.5
+200,Sophia Pastor,66,Curitiba,15897.33
+201,Gabriela Viana,64,Porto Alegre,11528.41
+202,Luiz Henrique Duarte,53,Curitiba,22584.39
+203,Dra. Raquel das Neves,65,Curitiba,12076.64
+204,Otávio Sampaio,66,Rio de Janeiro,21236.78
+205,Sr. Anthony Sá,35,Porto Alegre,12888.03
+206,Aurora Duarte,33,Belo Horizonte,11837.01
+207,João Gabriel da Cunha,63,Belo Horizonte,7010.6
+208,Antonella Albuquerque,39,Belo Horizonte,22486.13
+209,Hellena Albuquerque,23,Rio de Janeiro,5044.52
+210,Gael Henrique Nogueira,42,Salvador,5090.92
+211,Lunna Santos,31,São Paulo,11249.4
+212,Vinicius Pacheco,39,Porto Alegre,12449.22
+213,Oliver Sales,21,Rio de Janeiro,21072.94
+214,Letícia Carvalho,42,Porto Alegre,23732.46
+215,Ana Vitória da Mata,19,Porto Alegre,10438.95
+216,Maria Ferreira,18,Belo Horizonte,8517.4
+217,Lucca Farias,42,Curitiba,14148.18
+218,Isabella Freitas,65,Porto Alegre,20296.9
+219,Alexia da Cruz,75,Rio de Janeiro,12973.39
+220,Srta. Nina Abreu,35,Curitiba,12912.59
+221,Bruna Pacheco,42,Belo Horizonte,17218.53
+222,Sra. Valentina Sousa,69,Curitiba,18518.26
+223,Esther Nogueira,71,Curitiba,23109.23
+224,Murilo Montenegro,57,Porto Alegre,2133.71
+225,Cecília Fernandes,43,Porto Alegre,14763.21
+226,Pietro Pimenta,19,São Paulo,16604.62
+227,João Gabriel Cavalcante,26,Curitiba,5770.63
+228,Gael Henrique da Mota,34,Curitiba,9192.79
+229,Henry Barbosa,47,Belo Horizonte,9431.26
+230,Catarina Barbosa,74,Curitiba,8039.03
+231,Heloísa Cardoso,71,Curitiba,7428.38
+232,Natália da Mota,23,Curitiba,1955.51
+233,Oliver Silva,52,São Paulo,24997.83
+234,Vinicius Araújo,40,Rio de Janeiro,16778.39
+235,Giovanna Moraes,67,Salvador,2446.07
+236,Agatha Santos,19,Rio de Janeiro,6184.98
+237,Anna Liz Rodrigues,19,Porto Alegre,5080.99
+238,Daniel Machado,26,Curitiba,17232.28
+239,Renan Albuquerque,54,Rio de Janeiro,12428.3
+240,Mirella Rocha,34,Belo Horizonte,5443.04
+241,Isaac Sales,56,Salvador,18381.39
+242,Catarina da Cruz,67,Rio de Janeiro,24170.94
+243,Vinícius Ramos,24,Porto Alegre,2103.44
+244,Ana Liz Souza,37,Porto Alegre,17417.66
+245,Fernanda da Luz,42,Curitiba,23624.56
+246,Liam Nunes,30,São Paulo,15414.3
+247,Rafaela da Mata,71,Salvador,7206.96
+248,Maria Alice Cardoso,62,Belo Horizonte,21481.89
+249,Stephany da Costa,56,São Paulo,20211.34
+250,Srta. Olivia Correia,54,São Paulo,9659.29
+251,Mateus Ribeiro,45,Salvador,10208.42
+252,Caio Marques,50,Salvador,9518.93
+253,Cecília da Rosa,72,Curitiba,20824.78
+254,Léo Lima,24,Curitiba,24078.51
+255,Danilo Camargo,58,Curitiba,18121.75
+256,João Lucas Silva,45,Rio de Janeiro,18744.19
+257,Bryan Moraes,59,Belo Horizonte,15973.94
+258,Luara Barbosa,52,Curitiba,12424.53
+259,Pietro da Luz,70,Salvador,15423.15
+260,Isis Fogaça,38,Rio de Janeiro,21022.18
+261,Catarina Rios,23,Belo Horizonte,22218.33
+262,Vinicius Pimenta,33,Curitiba,14891.47
+263,Melissa Casa Grande,60,Curitiba,9405.32
+264,Clara Ferreira,49,Belo Horizonte,5773.24
+265,Cecília Lima,31,Belo Horizonte,20249.06
+266,Davi Luiz Novaes,39,Belo Horizonte,22187.52
+267,Camila Araújo,62,Belo Horizonte,14561.09
+268,Manuella Novaes,51,Rio de Janeiro,3511.9
+269,Bárbara Moreira,64,Curitiba,12981.58
+270,Antony Guerra,66,Rio de Janeiro,17729.32
+271,Vinicius Camargo,59,Salvador,13034.3
+272,Fernando Gonçalves,68,São Paulo,3686.75
+273,José da Luz,32,Curitiba,17757.0
+274,Fernando Pinto,37,Salvador,15166.56
+275,Gabriel Cardoso,48,Porto Alegre,13976.67
+276,Sr. Théo Abreu,45,Salvador,14434.13
+277,Letícia Vieira,40,Salvador,12163.01
+278,João Rezende,37,Belo Horizonte,6917.64
+279,Vicente Fogaça,64,Rio de Janeiro,8915.38
+280,Srta. Agatha Gomes,65,Porto Alegre,23845.62
+281,Carlos Eduardo Moura,62,Rio de Janeiro,6001.21
+282,Sr. Felipe Nascimento,65,Curitiba,7997.74
+283,Maysa Carvalho,55,Porto Alegre,15524.58
+284,Sr. Ryan Rocha,24,Rio de Janeiro,8461.79
+285,Dra. Mariah Aparecida,41,Rio de Janeiro,8603.29
+286,Benjamim Gomes,63,Porto Alegre,4474.7
+287,Lorena Souza,20,São Paulo,14503.94
+288,Sr. Enzo Gabriel da Rosa,62,Rio de Janeiro,16489.94
+289,Maria Helena Castro,66,Curitiba,3910.81
+290,Emanuella da Costa,18,Porto Alegre,8181.97
+291,Dr. Kevin Sales,48,Curitiba,9506.59
+292,Mariah da Cruz,21,Belo Horizonte,23614.99
+293,Caio Cardoso,48,São Paulo,20819.72
+294,Maria Sophia Marques,43,Curitiba,3240.93
+295,Lívia Brito,58,Salvador,2759.81
+296,Rael Montenegro,27,Porto Alegre,23804.45
+297,Srta. Ana Brito,23,Rio de Janeiro,4283.61
+298,André Cassiano,66,Curitiba,15748.46
+299,Maria Luiza Pinto,68,Porto Alegre,6803.65
+300,Diogo Rios,51,Curitiba,12087.09
+301,Davi Miguel Borges,46,Belo Horizonte,21713.92
+302,Gabriela Caldeira,45,Belo Horizonte,14862.79
+303,Samuel da Mota,21,Porto Alegre,24062.56
+304,Cecília Marques,24,Rio de Janeiro,16199.6
+305,Natália Vargas,34,Salvador,3407.91
+306,Ana Laura Siqueira,33,Rio de Janeiro,14471.82
+307,Davi Lucca Cassiano,28,São Paulo,11100.16
+308,Ravy Leão,62,Porto Alegre,12542.94
+309,Maria Clara Câmara,20,Rio de Janeiro,8270.46
+310,Alana Pastor,36,Salvador,21700.76
+311,Ana Liz Porto,22,Salvador,6985.46
+312,Marcela Peixoto,34,Salvador,15360.06
+313,Juliana Sá,69,Rio de Janeiro,11490.77
+314,Ana Beatriz Carvalho,52,Rio de Janeiro,16719.42
+315,Dra. Maria Luiza Sá,35,Rio de Janeiro,3178.13
+316,Allana Caldeira,28,Belo Horizonte,15483.53
+317,Bella Lima,70,Porto Alegre,23148.02
+318,Eloah Lima,46,São Paulo,12514.4
+319,Ana Cecília Moraes,37,Salvador,10958.95
+320,Sr. Nicolas Souza,35,Porto Alegre,14189.57
+321,Luna Pires,46,São Paulo,15553.86
+322,Sr. Anthony Alves,74,Curitiba,18761.55
+323,Ana Sophia Duarte,56,Belo Horizonte,2107.82
+324,Sr. Igor Duarte,32,Salvador,21145.03
+325,Ana Luiza Ribeiro,54,Porto Alegre,23843.48
+326,Maria Clara da Mata,66,Salvador,20803.4
+327,Carolina Farias,54,São Paulo,19433.06
+328,Yan Câmara,29,Curitiba,13695.65
+329,Luísa Porto,46,Belo Horizonte,5764.99
+330,Sabrina Borges,55,Curitiba,16417.44
+331,Luana Viana,49,São Paulo,12545.24
+332,Joana Silva,44,Belo Horizonte,9044.87
+333,Bárbara Lima,24,Rio de Janeiro,9250.39
+334,Melina Gomes,62,Curitiba,8273.12
+335,Augusto da Luz,43,Porto Alegre,2362.38
+336,Luana Ferreira,23,Belo Horizonte,7431.37
+337,Ryan Cardoso,25,Curitiba,21825.4
+338,Lucca Barbosa,70,São Paulo,16955.02
+339,Vinicius da Cruz,52,Curitiba,11211.32
+340,Bárbara da Costa,30,Porto Alegre,10001.81
+341,Davi Lucas Casa Grande,66,Curitiba,16197.11
+342,Gael Monteiro,66,São Paulo,6283.62
+343,Valentim Ramos,53,Rio de Janeiro,23300.31
+344,Jade Mendes,46,Salvador,12890.73
+345,Dra. Nicole da Conceição,19,Salvador,15808.48
+346,Brayan Nogueira,33,Salvador,5221.89
+347,Mariah Aragão,53,São Paulo,14477.91
+348,Ravi Cavalcante,23,Rio de Janeiro,24818.04
+349,Gabriela Ramos,25,Curitiba,23755.93
+350,Théo Vieira,59,Rio de Janeiro,13211.82
+351,Dr. André Fernandes,63,Belo Horizonte,13458.49
+352,Sr. Gael Henrique da Cruz,35,Curitiba,21116.01
+353,Luiz Felipe Aparecida,48,Rio de Janeiro,12234.48
+354,Srta. Fernanda Teixeira,27,Curitiba,5979.34
+355,Sra. Marina Novais,56,Porto Alegre,19037.87
+356,Sophia Cassiano,26,São Paulo,7991.81
+357,Ana Clara da Mota,68,Curitiba,9487.07
+358,Maysa Camargo,68,Porto Alegre,7778.56
+359,Vinicius Gonçalves,18,Belo Horizonte,18562.2
+360,Ana Laura Garcia,71,Porto Alegre,15128.2
+361,Benicio Ramos,60,Curitiba,21833.62
+362,Mariah da Mata,46,Porto Alegre,12882.02
+363,Benicio Oliveira,39,Porto Alegre,19427.51
+364,Cauê Almeida,42,Curitiba,23422.03
+365,Sr. Joaquim Cirino,73,Rio de Janeiro,24548.2
+366,Bento Câmara,33,Porto Alegre,10499.81
+367,Caroline Casa Grande,72,Curitiba,2525.71
+368,Ryan Carvalho,65,Curitiba,18072.86
+369,Valentim Pereira,69,Curitiba,10572.85
+370,Natália Pastor,60,Salvador,24549.23
+371,Giovanna Cavalcanti,49,São Paulo,4466.79
+372,Natália Ribeiro,55,Belo Horizonte,21937.96
+373,Isabela Costa,73,Curitiba,3843.22
+374,Gustavo Costa,47,São Paulo,18477.43
+375,Sr. Yuri Castro,44,Salvador,24293.98
+376,Emanuel Borges,22,Curitiba,19865.84
+377,Isabel Machado,34,Belo Horizonte,16146.6
+378,Ravi Monteiro,43,Salvador,3387.41
+379,Ravi Macedo,39,Salvador,21694.54
+380,Théo Moreira,42,Belo Horizonte,16229.78
+381,Alice da Cruz,74,Curitiba,22001.0
+382,Erick Mendonça,20,Porto Alegre,3107.89
+383,Enzo Cardoso,58,Salvador,23141.83
+384,Henry Gabriel Aragão,32,Salvador,3623.91
+385,Sr. Pedro Miguel Cavalcante,24,Salvador,18041.43
+386,João Vitor Pimenta,24,Curitiba,5409.57
+387,Dra. Allana Carvalho,37,São Paulo,2580.79
+388,Vitor Gabriel Siqueira,68,São Paulo,8394.14
+389,Luiz Gustavo Macedo,41,Curitiba,4920.89
+390,Isabela Almeida,51,Curitiba,14799.31
+391,Bruno da Conceição,68,Rio de Janeiro,5494.62
+392,Dra. Alícia da Rocha,23,Porto Alegre,21964.73
+393,Agatha Pereira,57,Salvador,7159.5
+394,Isabella Cirino,55,Rio de Janeiro,6956.43
+395,Noah Pereira,58,Belo Horizonte,12299.91
+396,Thales Macedo,60,São Paulo,22624.35
+397,Anthony Gabriel Rezende,47,Belo Horizonte,17423.86
+398,Melissa Oliveira,28,São Paulo,11880.65
+399,Nathan Fernandes,40,Porto Alegre,8530.12
+400,Maitê da Mata,45,Salvador,7377.31
+401,Caroline Pimenta,72,Belo Horizonte,6181.6
+402,Luna da Conceição,42,Curitiba,4006.35
+403,Dr. Oliver Fernandes,42,Porto Alegre,9935.54
+404,Lunna Almeida,36,Salvador,8437.92
+405,Srta. Maria Pereira,71,Salvador,10801.43
+406,Maysa Vasconcelos,18,Porto Alegre,21829.08
+407,Sr. Luiz Fernando Sousa,67,Salvador,24379.67
+408,Nicole da Conceição,56,Salvador,13173.09
+409,Sra. Alice Moraes,75,Belo Horizonte,19729.91
+410,Larissa Brito,32,Porto Alegre,20345.4
+411,Marina Pires,32,Salvador,5968.1
+412,Benicio Siqueira,34,Salvador,19256.07
+413,Laís Aparecida,67,Salvador,17500.09
+414,Davi Luiz Pacheco,26,Salvador,3783.35
+415,Lunna Pastor,58,Salvador,2426.43
+416,Clarice Marques,68,Curitiba,2284.07
+417,Sr. Carlos Eduardo Sá,41,Salvador,4588.18
+418,Joana da Rocha,36,Belo Horizonte,19065.8
+419,Sra. Anna Liz Sampaio,29,Rio de Janeiro,4605.76
+420,Dr. Raul Sales,52,Belo Horizonte,13975.03
+421,Yago Correia,35,Rio de Janeiro,7538.8
+422,Dra. Ana Cecília Ramos,70,Curitiba,24233.53
+423,Srta. Camila Brito,36,Salvador,21954.33
+424,João Gabriel Gonçalves,69,São Paulo,12505.79
+425,Gabriela Carvalho,22,Rio de Janeiro,19222.56
+426,Isis da Rocha,32,Salvador,18519.09
+427,Maria Helena Gonçalves,43,Porto Alegre,10095.71
+428,José Miguel Sousa,68,Curitiba,1827.09
+429,Heloísa Albuquerque,52,São Paulo,12187.47
+430,Rodrigo Rezende,61,Salvador,17300.01
+431,Sr. Gael Henrique Campos,55,Curitiba,20826.81
+432,Danilo Andrade,41,São Paulo,17358.66
+433,Erick Caldeira,48,São Paulo,16059.35
+434,Francisco Oliveira,53,Belo Horizonte,23008.51
+435,Lara Freitas,32,Salvador,2985.6
+436,João Guilherme da Mota,70,Curitiba,22870.61
+437,Caroline Gomes,37,Salvador,11094.95
+438,Ryan Gomes,26,São Paulo,23737.15
+439,Theodoro Cardoso,37,Curitiba,4228.83
+440,Cauã Rocha,33,Porto Alegre,4688.11
+441,Dra. Alice Rodrigues,47,Belo Horizonte,17256.43
+442,Renan Barros,65,Salvador,23730.39
+443,Gael Cassiano,44,Porto Alegre,18943.32
+444,Dra. Elisa da Luz,27,Curitiba,16890.66
+445,Dr. Gael Henrique Pinto,71,Curitiba,15967.83
+446,Ana Vitória Teixeira,35,São Paulo,17721.6
+447,Bernardo Guerra,31,Curitiba,11950.35
+448,Hellena da Rosa,33,Belo Horizonte,3834.83
+449,Olívia Guerra,61,Belo Horizonte,14294.95
+450,Davi Miguel Porto,59,Belo Horizonte,2922.93
+451,Giovanna Barros,35,Rio de Janeiro,24252.86
+452,Henry da Luz,72,Curitiba,3654.33
+453,Maria Isis da Costa,31,Salvador,16528.08
+454,Eduarda Pires,19,São Paulo,19989.67
+455,Isabela Mendonça,33,Rio de Janeiro,19993.99
+456,Emanuelly Rocha,31,São Paulo,21000.72
+457,Rhavi da Rosa,53,Rio de Janeiro,15280.0
+458,Maria Eduarda da Rosa,70,Rio de Janeiro,9221.15
+459,Rodrigo da Costa,27,Porto Alegre,1566.64
+460,Dra. Liz Câmara,72,Rio de Janeiro,24706.89
+461,Rafaela Freitas,52,Belo Horizonte,20265.07
+462,Lucas Rios,25,Salvador,21861.53
+463,Otávio Martins,26,São Paulo,9918.69
+464,Davi Miguel da Rosa,68,Rio de Janeiro,15338.04
+465,Stella Fernandes,19,Rio de Janeiro,7736.14
+466,Paulo Brito,26,Salvador,11392.57
+467,Gustavo Santos,25,Salvador,2993.61
+468,João Guilherme Carvalho,46,Belo Horizonte,13561.09
+469,Henry Vargas,24,Curitiba,13340.21
+470,Liam da Rosa,57,São Paulo,18590.21
+471,Fernanda Barbosa,73,Salvador,13754.1
+472,Alexia Pastor,47,Salvador,24154.62
+473,Srta. Julia Gonçalves,21,Curitiba,21411.52
+474,Nathan Rios,45,Salvador,4037.1
+475,Renan Sales,63,Curitiba,3227.03
+476,Larissa Araújo,23,Belo Horizonte,15794.99
+477,Pietra Campos,22,Rio de Janeiro,7962.88
+478,Thales Pinto,58,Porto Alegre,14386.38
+479,Evelyn Ramos,38,Curitiba,24873.75
+480,Ana Lívia Porto,51,Belo Horizonte,12162.31
+481,Sr. Alexandre Rocha,56,Curitiba,3830.69
+482,Sr. Emanuel Nogueira,62,São Paulo,21540.63
+483,Vitor Costela,59,Porto Alegre,18439.74
+484,Ana Cecília Moreira,31,Curitiba,12111.54
+485,Dr. Bryan da Rocha,32,Curitiba,9464.89
+486,Sr. Cauê Sousa,47,Curitiba,11275.76
+487,Dra. Lorena Azevedo,24,Belo Horizonte,11528.95
+488,Alice Lima,60,Belo Horizonte,10296.07
+489,Ana Leão,27,Salvador,23190.15
+490,Zoe Brito,22,São Paulo,21046.64
+491,Lunna Mendes,23,Curitiba,3769.26
+492,Larissa Câmara,65,Belo Horizonte,20576.58
+493,André Araújo,53,São Paulo,15281.93
+494,Sophie Siqueira,53,Porto Alegre,9246.68
+495,Sra. Clara Santos,25,Curitiba,9809.55
+496,Maria Júlia da Cunha,60,Curitiba,21900.17
+497,Ryan Freitas,64,São Paulo,24257.37
+498,Sra. Fernanda da Cunha,56,Belo Horizonte,9763.69
+499,Isaque Santos,54,Porto Alegre,6499.36
+500,Srta. Clarice Mendonça,60,Curitiba,6769.75
+501,Vitor Gabriel Guerra,24,Belo Horizonte,21366.28
+502,Theodoro Nogueira,41,São Paulo,19421.23
+503,José Abreu,54,Rio de Janeiro,20469.7
+504,Milena Brito,72,Porto Alegre,24401.85
+505,Thomas Montenegro,70,Porto Alegre,15918.97
+506,Ayla Viana,59,Porto Alegre,2116.97
+507,Dra. Joana Gomes,60,Salvador,7785.02
+508,Bruna Borges,29,Belo Horizonte,18013.42
+509,Marcela Novais,37,Belo Horizonte,9749.05
+510,Luna Pires,29,Rio de Janeiro,14808.55
+511,Yago Rocha,43,São Paulo,4834.05
+512,Emilly Ramos,58,São Paulo,3656.31
+513,Asafe Correia,51,Rio de Janeiro,10340.57
+514,Dr. Benjamim Gonçalves,47,Belo Horizonte,5199.12
+515,Marina Macedo,37,Salvador,9123.0
+516,Diogo Nascimento,54,Porto Alegre,3496.49
+517,Sarah Jesus,21,Rio de Janeiro,5199.13
+518,Helena Albuquerque,57,São Paulo,17338.26
+519,Davi Lucca Rios,35,Curitiba,17055.56
+520,Larissa Aparecida,49,Porto Alegre,11888.04
+521,Laura Caldeira,35,Rio de Janeiro,19241.16
+522,Dr. Enzo Costa,25,Belo Horizonte,11602.97
+523,Aurora da Mota,36,Salvador,17444.43
+524,Luara da Rocha,49,Porto Alegre,17177.62
+525,Luana Almeida,20,Rio de Janeiro,10788.69
+526,Dr. Ravi Abreu,56,São Paulo,1680.65
+527,Fernanda Martins,37,Rio de Janeiro,19532.71
+528,Thiago Rocha,66,Belo Horizonte,8302.01
+529,Mateus Rodrigues,25,São Paulo,13188.56
+530,Rebeca Rodrigues,45,Rio de Janeiro,4535.86
+531,Ana Sophia Aragão,52,Salvador,6907.6
+532,João Vieira,53,Salvador,20445.7
+533,Rebeca Martins,22,Curitiba,21751.46
+534,Giovanna Farias,20,Curitiba,1940.43
+535,Sr. Paulo Pereira,22,Belo Horizonte,15030.34
+536,Dante Carvalho,54,Curitiba,18173.23
+537,Davi Lucca da Luz,44,Belo Horizonte,4206.57
+538,Breno Lima,19,Belo Horizonte,5539.02
+539,Maria Alice Vargas,57,Curitiba,21052.61
+540,Heloisa Alves,41,São Paulo,11762.73
+541,Luísa da Mota,24,Rio de Janeiro,11738.4
+542,Bryan Andrade,43,Porto Alegre,3348.21
+543,Pedro Henrique Fonseca,73,Belo Horizonte,19026.41
+544,Maria Fernanda Pereira,32,Belo Horizonte,19809.27
+545,Matteo Rodrigues,22,Porto Alegre,16380.78
+546,Gael Henrique Oliveira,51,Porto Alegre,6056.74
+547,Sr. Carlos Eduardo Freitas,67,Belo Horizonte,9750.84
+548,Heloísa Cunha,70,Salvador,20653.37
+549,Stella Ferreira,33,São Paulo,4941.44
+550,Ravi Castro,30,Rio de Janeiro,15656.38
+551,Nina Barros,66,Salvador,3270.8
+552,Dra. Alice da Luz,67,Salvador,13111.75
+553,Caio Rios,66,Porto Alegre,19357.11
+554,Ana Cecília Souza,46,Salvador,23217.63
+555,Pietra Gomes,54,Salvador,16429.51
+556,Fernando Sousa,57,Belo Horizonte,21809.8
+557,Ester Nunes,58,Belo Horizonte,5047.5
+558,Sr. Levi Cunha,22,Curitiba,11891.89
+559,Raul Porto,37,Belo Horizonte,15398.36
+560,Srta. Bárbara da Rosa,40,Porto Alegre,3243.48
+561,Yasmin Ramos,47,Curitiba,2383.77
+562,Francisco Ribeiro,41,Belo Horizonte,3303.18
+563,Caroline Araújo,73,São Paulo,15952.7
+564,Guilherme Andrade,50,Curitiba,12373.72
+565,Dr. Ian Sales,53,Salvador,22553.1
+566,Manuella Almeida,46,Porto Alegre,16818.18
+567,Benjamim Castro,38,Porto Alegre,12677.28
+568,Carlos Eduardo Costa,27,São Paulo,12087.29
+569,Ravy Monteiro,69,Belo Horizonte,24586.06
+570,Srta. Marina Almeida,23,Porto Alegre,16683.99
+571,Emanuelly da Mata,20,Rio de Janeiro,18129.11
+572,Pedro Henrique Albuquerque,46,Porto Alegre,13784.58
+573,Ágatha Nogueira,28,Belo Horizonte,10262.02
+574,Sabrina Oliveira,36,Curitiba,11106.08
+575,Maria Júlia Guerra,39,Salvador,15550.32
+576,Thales Fernandes,68,Salvador,16711.68
+577,Isaac Carvalho,22,Belo Horizonte,3720.89
+578,Erick Dias,61,Curitiba,8177.45
+579,Dr. João Guilherme Freitas,64,Salvador,24163.64
+580,Aurora Moraes,56,Rio de Janeiro,9334.01
+581,Theo Carvalho,55,Salvador,4823.57
+582,Maria Vitória Rodrigues,40,Belo Horizonte,24240.87
+583,Aylla Mendes,62,Salvador,10711.01
+584,Yago Andrade,56,Salvador,23543.05
+585,Henrique Fonseca,37,Porto Alegre,10351.96
+586,Nicolas da Costa,68,Belo Horizonte,20609.84
+587,Lavínia Cardoso,60,Salvador,20980.54
+588,Olivia Vasconcelos,65,Salvador,22942.53
+589,Bryan Cardoso,23,Salvador,17255.72
+590,Levi Pastor,50,Belo Horizonte,1928.42
+591,Srta. Emanuella Freitas,37,Rio de Janeiro,23852.48
+592,Agatha Novaes,39,Curitiba,6012.12
+593,Daniela da Cruz,26,Rio de Janeiro,3313.38
+594,Benicio Rocha,72,São Paulo,13430.71
+595,Vitor Hugo Alves,52,Salvador,22266.53
+596,Matteo Carvalho,20,Salvador,9413.96
+597,Benjamim Sá,67,Porto Alegre,4579.65
+598,Lucas Gabriel Barros,42,Rio de Janeiro,5312.81
+599,Esther Duarte,71,Salvador,19620.8
+600,João Vitor Duarte,69,Rio de Janeiro,18447.8
+601,Apollo Jesus,20,Curitiba,10061.04
+602,Maria Luísa da Mota,64,Rio de Janeiro,24285.33
+603,Manuella Pinto,57,Belo Horizonte,19181.19
+604,Isadora Viana,68,Curitiba,6999.07
+605,Luiz Miguel Vieira,33,Belo Horizonte,24191.52
+606,Isadora Dias,68,Curitiba,22743.4
+607,Breno Viana,30,Belo Horizonte,17440.21
+608,Emanuella Albuquerque,54,Curitiba,12349.48
+609,Ana Porto,36,Curitiba,13318.31
+610,Sr. Ian Oliveira,44,Rio de Janeiro,20696.94
+611,Arthur Leão,69,Porto Alegre,4752.37
+612,Apollo Novais,34,São Paulo,16567.71
+613,Lorena Duarte,73,Belo Horizonte,14531.71
+614,Elisa Pires,24,Salvador,21378.47
+615,Mariah Lopes,72,São Paulo,8198.98
+616,Daniel Alves,66,Rio de Janeiro,7910.6
+617,Raul Rezende,75,Porto Alegre,4962.69
+618,Daniel Farias,45,São Paulo,23740.71
+619,Dra. Milena Sampaio,32,Curitiba,22288.8
+620,Ana Laura Nogueira,19,Curitiba,2751.54
+621,Sophie Freitas,50,Belo Horizonte,7040.78
+622,Sr. João Guilherme Carvalho,23,Belo Horizonte,6776.66
+623,Maria Julia Pereira,38,São Paulo,21220.64
+624,Natália Rodrigues,59,Belo Horizonte,20097.44
+625,Noah Caldeira,26,São Paulo,8241.67
+626,Eduarda Montenegro,71,Curitiba,17857.69
+627,Sra. Ana Clara Costa,26,Salvador,12524.09
+628,Rodrigo Gonçalves,57,São Paulo,22787.65
+629,Sophie Silveira,19,Belo Horizonte,6567.89
+630,Amanda Sousa,27,Porto Alegre,23595.31
+631,Cecília Pinto,56,Porto Alegre,11446.49
+632,Dr. Ravy Cirino,67,Belo Horizonte,7084.55
+633,Caleb Fernandes,25,São Paulo,7103.33
+634,Sr. Kaique Fogaça,58,Porto Alegre,12242.17
+635,Liz Cardoso,25,Curitiba,15523.37
+636,Ágatha Borges,19,Salvador,13611.33
+637,Sr. Vitor Gabriel Cassiano,33,Salvador,4874.06
+638,Erick Machado,45,São Paulo,15948.03
+639,Lucca Novais,33,Porto Alegre,11289.34
+640,Pedro Henrique Siqueira,60,Salvador,3511.93
+641,Ana Lívia Cassiano,41,São Paulo,23904.99
+642,Isabella Fogaça,52,Porto Alegre,19980.69
+643,Alexandre Castro,50,Porto Alegre,1977.86
+644,Breno Sá,73,Curitiba,2523.06
+645,Srta. Ana Laura Cavalcante,42,Belo Horizonte,7460.78
+646,Heloísa Albuquerque,19,Belo Horizonte,20030.22
+647,Leonardo Ribeiro,40,Rio de Janeiro,18724.11
+648,Rebeca Cassiano,58,São Paulo,19630.28
+649,Clara Cavalcante,65,Belo Horizonte,4635.13
+650,Dr. Lucas Gabriel Silveira,40,Porto Alegre,9455.86
+651,Manuella da Cruz,59,Rio de Janeiro,21014.02
+652,Lívia Almeida,61,Curitiba,24549.25
+653,Hellena Dias,48,Salvador,5783.53
+654,Pedro Lucas da Mota,26,São Paulo,18327.06
+655,Lorena Silva,47,São Paulo,8395.9
+656,Sra. Rebeca das Neves,20,Rio de Janeiro,22316.07
+657,Brenda Guerra,38,Belo Horizonte,13611.51
+658,Maria Júlia Barbosa,70,Porto Alegre,12624.89
+659,Valentina Alves,20,Salvador,5990.93
+660,Daniel Pacheco,40,São Paulo,21846.26
+661,Rebeca Nascimento,39,Belo Horizonte,4425.16
+662,Dr. Erick Sousa,41,Curitiba,22402.93
+663,Rael Dias,65,Curitiba,22523.98
+664,Leandro Costa,42,Belo Horizonte,24382.5
+665,Arthur Montenegro,49,Salvador,13191.8
+666,Erick Peixoto,69,Porto Alegre,7767.94
+667,Alexandre Sampaio,23,Salvador,11475.74
+668,Luiz Miguel Borges,45,Porto Alegre,24884.81
+669,Gustavo Araújo,29,Porto Alegre,8403.51
+670,Maria Júlia Cavalcanti,24,São Paulo,9206.12
+671,Theodoro Rodrigues,36,Belo Horizonte,11979.02
+672,Carlos Eduardo Castro,63,Curitiba,5416.15
+673,José Pedro Albuquerque,46,Belo Horizonte,12007.55
+674,João Vitor Duarte,64,Belo Horizonte,15949.01
+675,Luiz Henrique Nascimento,45,Belo Horizonte,16527.53
+676,Alícia Carvalho,68,São Paulo,3263.47
+677,Ravi Lucca Mendonça,58,Curitiba,10037.81
+678,Benjamim Rocha,69,Salvador,17466.15
+679,Sr. Emanuel Pinto,19,Rio de Janeiro,21443.73
+680,Dra. Manuela Ramos,61,Curitiba,2317.78
+681,Srta. Vitória das Neves,22,Rio de Janeiro,19795.11
+682,Sarah Peixoto,41,Belo Horizonte,10497.08
+683,Benjamin Leão,54,São Paulo,15719.73
+684,José Pacheco,61,Curitiba,23797.35
+685,Dr. Leonardo Campos,41,Curitiba,19432.49
+686,Benicio Guerra,54,Rio de Janeiro,13942.31
+687,Nathan Moraes,43,Belo Horizonte,16764.68
+688,Maria Vitória Sales,33,São Paulo,2108.96
+689,Caroline da Rosa,29,Curitiba,13667.01
+690,Sra. Maria Almeida,53,São Paulo,7651.75
+691,Ana Clara da Rosa,34,Salvador,11987.42
+692,Kaique Sampaio,57,Belo Horizonte,17808.55
+693,Heloisa Sousa,49,Rio de Janeiro,4381.98
+694,Maria Fernanda Cardoso,72,São Paulo,12123.0
+695,Marcelo Montenegro,75,Salvador,11960.11
+696,Brayan Barros,23,Salvador,24237.69
+697,Sr. Raul Mendes,38,Salvador,9664.49
+698,Maria Sophia Aparecida,22,Porto Alegre,14241.03
+699,Gael Leão,75,Belo Horizonte,21507.01
+700,Maitê Montenegro,63,Salvador,23292.12
+701,Kevin Vasconcelos,58,Rio de Janeiro,20151.87
+702,Davi Lucca Costela,50,Rio de Janeiro,4352.02
+703,Anthony Abreu,30,Rio de Janeiro,7063.3
+704,Diego da Costa,49,São Paulo,9981.07
+705,Dr. Nathan Monteiro,54,Belo Horizonte,12484.04
+706,Benicio Moura,53,Rio de Janeiro,15880.79
+707,Lucas Farias,23,São Paulo,8768.33
+708,Léo da Costa,63,Salvador,12748.63
+709,Lucas Gabriel Marques,44,Curitiba,20848.48
+710,Ana Liz Montenegro,22,Rio de Janeiro,24350.92
+711,Ana Carolina Cavalcanti,59,São Paulo,12074.4
+712,Sr. Gustavo Siqueira,61,Porto Alegre,9596.1
+713,Olivia Castro,74,Porto Alegre,16535.16
+714,Ana Júlia Leão,29,Rio de Janeiro,11666.53
+715,Dra. Alana Rios,73,São Paulo,21037.68
+716,Clara Dias,51,Rio de Janeiro,8646.93
+717,Bruno Brito,28,Belo Horizonte,23466.34
+718,João Vitor Silveira,32,Belo Horizonte,23765.85
+719,Emanuelly Macedo,51,Belo Horizonte,21379.44
+720,Pietro Sousa,34,Rio de Janeiro,16423.84
+721,Srta. Stephany Duarte,53,Belo Horizonte,4441.5
+722,Sr. Theodoro Alves,37,Porto Alegre,14036.73
+723,Ryan Azevedo,50,Salvador,5462.94
+724,Nathan Moraes,55,Rio de Janeiro,5523.21
+725,Lívia Oliveira,57,Salvador,22697.02
+726,Arthur Miguel da Luz,39,Porto Alegre,2468.07
+727,Maria Laura Oliveira,73,São Paulo,3408.74
+728,Liz Porto,59,Porto Alegre,7719.41
+729,Eloá Costela,31,Porto Alegre,11289.79
+730,Davi Miguel Macedo,58,São Paulo,13203.89
+731,Srta. Natália Porto,58,Porto Alegre,8307.28
+732,Ana Beatriz Novaes,37,Curitiba,7254.63
+733,Stephany Freitas,69,Salvador,11043.17
+734,Bento Pereira,47,São Paulo,17682.42
+735,Gael Albuquerque,28,Curitiba,11267.11
+736,Joaquim Camargo,47,Rio de Janeiro,9494.53
+737,Benício Moreira,27,Belo Horizonte,21744.9
+738,Ísis Pinto,38,Salvador,24718.55
+739,Stephany Aragão,40,Curitiba,4573.0
+740,Maria Luísa Souza,41,Porto Alegre,14698.8
+741,Carolina Ribeiro,38,Rio de Janeiro,12462.11
+742,Maria Julia Lopes,35,Curitiba,7326.09
+743,Emanuella Casa Grande,24,São Paulo,8319.98
+744,Dr. Bryan Barbosa,42,Porto Alegre,11326.17
+745,Maria Fernanda Cassiano,73,Rio de Janeiro,20616.73
+746,Srta. Ana Lívia Aragão,54,Salvador,8848.8
+747,Mariana Fernandes,66,Rio de Janeiro,13209.24
+748,Dr. Vinícius Macedo,50,Curitiba,13220.85
+749,Stella Sales,37,Curitiba,2044.64
+750,Pietro Machado,43,Porto Alegre,12244.92
+751,Ryan Novais,33,Rio de Janeiro,15208.59
+752,Dr. Diego Alves,21,São Paulo,8111.87
+753,Liam Machado,56,Salvador,17304.23
+754,Rael Oliveira,36,Porto Alegre,1692.17
+755,Ryan Fogaça,24,Curitiba,4647.47
+756,Cecília Castro,34,Salvador,10095.77
+757,Fernanda Ramos,43,Belo Horizonte,2563.2
+758,Valentina Cavalcante,21,Porto Alegre,14702.7
+759,Dante Sousa,41,Porto Alegre,8282.14
+760,Luigi da Cruz,42,Porto Alegre,12083.33
+761,Eduardo Gomes,53,Belo Horizonte,20894.82
+762,Elisa Abreu,57,Salvador,15859.51
+763,Benjamim Aparecida,26,São Paulo,10756.74
+764,Evelyn da Conceição,68,Belo Horizonte,14609.05
+765,Dra. Luara Câmara,41,Rio de Janeiro,6177.86
+766,Maria Laura Azevedo,50,Curitiba,13251.83
+767,Otávio Sousa,20,São Paulo,4720.35
+768,Srta. Maria Eduarda Gonçalves,39,Curitiba,13704.32
+769,Anthony Gabriel Almeida,27,Porto Alegre,22488.59
+770,Olivia Jesus,26,Belo Horizonte,23387.17
+771,Antony da Cruz,38,Rio de Janeiro,10734.43
+772,Juliana Nascimento,57,Salvador,21301.15
+773,Daniela Alves,55,Belo Horizonte,13421.9
+774,Sr. Nathan Sousa,50,Porto Alegre,13011.4
+775,Dra. Camila Brito,54,Belo Horizonte,12659.98
+776,Lucas Gabriel Campos,19,Belo Horizonte,9284.13
+777,Daniela Vieira,25,Curitiba,15217.0
+778,Eloá Castro,68,Salvador,21994.33
+779,Catarina Freitas,58,São Paulo,15527.38
+780,André Pereira,34,Salvador,19898.24
+781,Henry Gabriel da Costa,67,Porto Alegre,15074.41
+782,Ana Vitória Abreu,64,São Paulo,15212.8
+783,Ana Julia da Conceição,28,Porto Alegre,16282.09
+784,Luigi da Cunha,57,Curitiba,4972.73
+785,Allana da Rosa,61,Rio de Janeiro,2241.91
+786,Antonella Ferreira,62,São Paulo,5983.43
+787,Leonardo da Conceição,46,Belo Horizonte,11341.34
+788,Sra. Hellena Ferreira,44,Salvador,6291.45
+789,Maria Júlia Moura,50,Porto Alegre,23132.24
+790,Srta. Agatha das Neves,73,Salvador,18593.95
+791,João Felipe Brito,63,Rio de Janeiro,13689.06
+792,Eduarda Câmara,53,Belo Horizonte,24955.89
+793,André Martins,48,Porto Alegre,10355.38
+794,Lucas Gabriel Novaes,29,Curitiba,22934.92
+795,Ana Sophia Câmara,39,Porto Alegre,9825.74
+796,Antonella Vieira,67,Salvador,17497.53
+797,Mirella Abreu,69,Salvador,7712.51
+798,Yan Novais,48,Rio de Janeiro,23997.43
+799,Pedro Henrique da Conceição,35,Porto Alegre,8514.73
+800,André da Cunha,37,Belo Horizonte,18065.17
+801,Dr. Lorenzo Barbosa,62,Salvador,12991.57
+802,Dra. Hellena Cirino,48,Belo Horizonte,14671.46
+803,João Gabriel Nunes,68,Salvador,7926.25
+804,Dr. Noah Pacheco,25,Porto Alegre,17400.62
+805,Aylla Novais,42,Curitiba,20731.87
+806,Camila Farias,67,Rio de Janeiro,8325.64
+807,Ryan da Rocha,36,Salvador,3357.19
+808,Guilherme Alves,46,Salvador,7526.43
+809,Lucca Dias,48,Rio de Janeiro,6248.6
+810,Fernando Mendonça,52,Belo Horizonte,23426.06
+811,Sr. Lucas Gabriel Costela,62,Belo Horizonte,4725.91
+812,Yuri Araújo,57,Salvador,15290.52
+813,Maria Sophia Rios,33,São Paulo,17241.1
+814,Alexandre da Rosa,51,Rio de Janeiro,16491.7
+815,Gabrielly Caldeira,21,São Paulo,11212.58
+816,Sr. Carlos Eduardo Barbosa,63,Curitiba,3862.81
+817,Calebe Carvalho,67,Rio de Janeiro,1621.76
+818,Cauã Freitas,53,Rio de Janeiro,11062.33
+819,João Rezende,74,Curitiba,12720.04
+820,Dra. Antonella Marques,30,Belo Horizonte,9047.44
+821,Dra. Maria Cecília Cavalcanti,59,São Paulo,22836.52
+822,Eduardo Moura,23,Salvador,14992.13
+823,João Felipe Teixeira,52,Salvador,18493.27
+824,Luara Marques,20,Rio de Janeiro,11320.3
+825,Dante Cardoso,71,Rio de Janeiro,23447.18
+826,Sara Nascimento,20,Curitiba,20017.07
+827,Milena Casa Grande,29,Salvador,24110.09
+828,Arthur Miguel Melo,36,São Paulo,1717.78
+829,Caleb Brito,54,Porto Alegre,4021.57
+830,Dr. João da Costa,39,Belo Horizonte,12177.2
+831,Ana Cecília Marques,59,Porto Alegre,13821.49
+832,Isabel Pastor,74,Rio de Janeiro,21499.9
+833,Apollo Montenegro,47,Belo Horizonte,6031.07
+834,Enrico Lopes,25,Belo Horizonte,5318.62
+835,Aurora Campos,47,Salvador,7545.72
+836,Ana Luiza Sousa,29,São Paulo,18810.52
+837,Benicio Pimenta,68,Belo Horizonte,14842.86
+838,Bárbara Vargas,66,Rio de Janeiro,5624.13
+839,Sr. Arthur Sá,72,Salvador,22580.5
+840,Ana Lívia Andrade,70,Curitiba,13609.1
+841,Felipe Vargas,23,Curitiba,17227.51
+842,Sr. Marcos Vinicius Almeida,29,Rio de Janeiro,12720.17
+843,Stella Pastor,33,São Paulo,7628.45
+844,Calebe das Neves,33,Curitiba,19213.28
+845,Rebeca Ferreira,39,Belo Horizonte,15187.83
+846,Liam Pimenta,54,São Paulo,7646.5
+847,Liam Almeida,41,Salvador,7053.11
+848,Ana Vargas,60,São Paulo,12436.78
+849,Paulo Lopes,28,Curitiba,17622.73
+850,Juan Costa,75,Salvador,19591.26
+851,Daniela Nascimento,62,São Paulo,16509.72
+852,João Gabriel Mendonça,36,Belo Horizonte,15943.7
+853,Sr. Théo Rezende,32,Rio de Janeiro,12737.27
+854,Benicio Moura,47,Salvador,24737.69
+855,Dra. Sophia Araújo,41,Curitiba,17995.61
+856,Aurora Sá,48,Porto Alegre,20346.88
+857,Ana Julia das Neves,70,Rio de Janeiro,19403.7
+858,Zoe Martins,61,Porto Alegre,22018.67
+859,Lavínia Brito,23,Porto Alegre,11998.58
+860,Mariane Oliveira,63,Belo Horizonte,3335.41
+861,Julia Rezende,54,São Paulo,2951.31
+862,Isadora Abreu,53,Porto Alegre,6250.68
+863,Bernardo Dias,52,Rio de Janeiro,5366.62
+864,Francisco Cassiano,72,Porto Alegre,11883.25
+865,Kaique Carvalho,61,Rio de Janeiro,18347.57
+866,Giovanna Rios,49,São Paulo,22623.9
+867,Allana Pimenta,46,São Paulo,12155.66
+868,Lorena Borges,50,Curitiba,12234.76
+869,Gabriela da Cruz,21,Porto Alegre,12365.89
+870,Rafaela Sampaio,69,Belo Horizonte,18497.08
+871,Otávio Cardoso,43,Belo Horizonte,20686.65
+872,Rodrigo Vasconcelos,65,Rio de Janeiro,15090.31
+873,Pedro Henrique Lima,20,Curitiba,9596.43
+874,Davi Miguel Moreira,22,Porto Alegre,24861.91
+875,Camila Guerra,75,São Paulo,24674.23
+876,Yago Lima,48,São Paulo,8246.63
+877,Apollo Marques,29,Rio de Janeiro,19496.95
+878,Emilly Santos,64,Salvador,24148.89
+879,Luigi Almeida,41,Curitiba,12040.62
+880,Maria Cecília Moura,42,Curitiba,3385.87
+881,Dom Carvalho,60,Porto Alegre,4625.26
+882,Anthony Gabriel Cardoso,73,Belo Horizonte,4287.88
+883,Kaique Montenegro,52,Curitiba,13927.8
+884,Ana Júlia Ferreira,64,Rio de Janeiro,21118.31
+885,Camila Mendonça,66,São Paulo,24494.53
+886,Erick Ferreira,47,Salvador,18398.71
+887,Juliana Marques,45,Porto Alegre,10413.0
+888,Diego Fonseca,32,Rio de Janeiro,12324.69
+889,Marcos Vinicius da Cunha,27,Belo Horizonte,5929.29
+890,Isaac Viana,74,Salvador,19489.01
+891,Milena Santos,20,Salvador,11352.15
+892,Maria Liz Mendonça,67,São Paulo,7155.66
+893,Manuela Garcia,22,São Paulo,15457.69
+894,Srta. Isabela Abreu,46,Porto Alegre,17292.56
+895,Maria Laura Aragão,73,São Paulo,7251.25
+896,Ana Júlia Camargo,20,Curitiba,11815.63
+897,Maria Júlia Correia,52,Rio de Janeiro,19228.06
+898,Luara Viana,67,São Paulo,4793.19
+899,Rafael Martins,36,Rio de Janeiro,20670.98
+900,Brenda Costela,64,Porto Alegre,8994.24
+901,Melissa Moraes,56,Salvador,20731.99
+902,Luiz Otávio Andrade,33,Belo Horizonte,22092.07
+903,Ester Moreira,60,Porto Alegre,6694.5
+904,Cecília Fernandes,37,Belo Horizonte,2932.5
+905,Maria Cecília Campos,55,Salvador,22922.08
+906,Apollo Alves,58,Salvador,11539.21
+907,Miguel Vasconcelos,49,São Paulo,24348.82
+908,Yago Pacheco,59,Salvador,10457.13
+909,Lara Casa Grande,51,Belo Horizonte,17863.25
+910,Rafaela Martins,44,Rio de Janeiro,8547.38
+911,Catarina Correia,29,Porto Alegre,12627.69
+912,Yasmin da Rocha,72,Rio de Janeiro,8567.31
+913,Pedro Lucas Lopes,63,Rio de Janeiro,20435.74
+914,Luara Casa Grande,21,Porto Alegre,11197.92
+915,Brayan Cavalcanti,44,Porto Alegre,13954.81
+916,Mirella Nogueira,42,Rio de Janeiro,7492.4
+917,Bruna Pastor,39,Salvador,3358.16
+918,Eduarda Silveira,46,Belo Horizonte,3672.9
+919,Esther Sampaio,64,Rio de Janeiro,2711.11
+920,Olivia Sales,42,Salvador,15716.78
+921,Dr. Juan Rezende,20,São Paulo,5921.84
+922,Allana Freitas,66,Porto Alegre,18521.17
+923,Rafael Sales,53,Rio de Janeiro,12765.76
+924,Vinicius Correia,73,Belo Horizonte,8624.92
+925,Esther Cunha,18,Rio de Janeiro,23523.25
+926,Carlos Eduardo da Luz,65,São Paulo,19051.66
+927,Dr. Gael Henrique Rocha,66,Curitiba,22989.37
+928,Zoe Vieira,62,Porto Alegre,18038.56
+929,Thiago Araújo,43,Rio de Janeiro,14473.86
+930,Melissa da Conceição,67,Belo Horizonte,10445.55
+931,Vitor Hugo Pacheco,52,Salvador,9942.6
+932,Davi Lucas Almeida,34,Belo Horizonte,13551.19
+933,Matheus Rezende,49,Curitiba,3817.29
+934,Ísis Rocha,64,Curitiba,19398.28
+935,José Pedro Moraes,38,Rio de Janeiro,10211.57
+936,Maria Júlia Casa Grande,44,São Paulo,14719.33
+937,Rebeca da Paz,32,Salvador,4929.18
+938,Davi Miguel da Cruz,34,Porto Alegre,23466.82
+939,Luara Ferreira,55,Salvador,11313.08
+940,Caleb Rodrigues,27,Rio de Janeiro,9251.83
+941,Mathias da Rosa,42,Porto Alegre,21084.02
+942,Raul Freitas,49,Porto Alegre,16883.29
+943,Kamilly Sales,61,Belo Horizonte,7547.18
+944,Bruno da Luz,70,Curitiba,24212.94
+945,Sra. Lavínia Silveira,59,Salvador,13029.0
+946,Pedro Garcia,28,Salvador,20181.92
+947,Brenda Sá,28,Rio de Janeiro,18427.37
+948,Otto Vasconcelos,49,Rio de Janeiro,23047.14
+949,Sra. Bárbara Barbosa,52,Salvador,23995.07
+950,Dr. Ravi Ramos,51,São Paulo,21218.11
+951,Isis Sá,22,Salvador,2640.09
+952,Anthony Nunes,18,Curitiba,4731.05
+953,Benjamim Fogaça,58,Rio de Janeiro,3097.25
+954,Paulo Costela,27,São Paulo,6639.91
+955,Rafael Costa,47,Belo Horizonte,2920.58
+956,Sr. Otto Gonçalves,58,Salvador,23446.74
+957,Ana Clara Guerra,48,Salvador,12964.58
+958,Maria Cassiano,18,Porto Alegre,14463.62
+959,Davi Borges,18,São Paulo,13941.31
+960,Caroline Melo,35,Porto Alegre,24470.76
+961,Dr. Matteo Andrade,19,Porto Alegre,20609.19
+962,Aylla Gonçalves,61,Curitiba,20444.94
+963,Davi Luiz Carvalho,29,São Paulo,23074.15
+964,Srta. Ana Luiza Cavalcante,51,Rio de Janeiro,7162.77
+965,Dr. Leandro Garcia,57,Porto Alegre,7431.83
+966,Luana Costela,40,Belo Horizonte,20181.0
+967,Eduardo Farias,23,Belo Horizonte,24043.5
+968,Noah Moraes,47,Porto Alegre,7215.39
+969,Marcos Vinicius Pinto,62,Rio de Janeiro,8549.4
+970,Emilly Barbosa,70,São Paulo,16862.79
+971,José Pedro Caldeira,72,Salvador,19350.27
+972,Yago Aragão,23,Curitiba,10412.7
+973,Davi Lucca Silva,53,Curitiba,2818.7
+974,Augusto Duarte,18,Salvador,5527.51
+975,Luísa da Conceição,49,Curitiba,16655.32
+976,Pedro Silva,39,Porto Alegre,24467.24
+977,Levi Lima,24,Porto Alegre,23100.08
+978,Dra. Fernanda Garcia,32,Rio de Janeiro,22679.91
+979,Mirella Marques,62,Porto Alegre,12674.26
+980,Otávio Pereira,20,São Paulo,17584.08
+981,Sr. Léo Caldeira,35,Porto Alegre,14742.48
+982,Dra. Luara Correia,20,Rio de Janeiro,23326.01
+983,Asafe Mendonça,38,São Paulo,24094.53
+984,Apollo Sampaio,55,Rio de Janeiro,19177.98
+985,Srta. Kamilly Correia,63,Curitiba,23328.56
+986,Sr. Rhavi Novaes,37,Rio de Janeiro,14753.02
+987,Heloisa Ramos,54,Curitiba,17410.32
+988,Isaque Marques,52,Belo Horizonte,10520.39
+989,Daniela Nogueira,65,Rio de Janeiro,20076.71
+990,Maria Eduarda Costela,62,Salvador,3343.05
+991,Maria Helena da Cruz,65,Belo Horizonte,2761.87
+992,Nina da Rosa,45,Rio de Janeiro,21208.85
+993,Ayla Novaes,39,Porto Alegre,19571.63
+994,Julia Casa Grande,56,Curitiba,24269.63
+995,Davi Miguel Marques,38,São Paulo,16401.89
+996,Diogo Novaes,68,Curitiba,13029.18
+997,Dra. Sabrina Lopes,40,Porto Alegre,23616.86
+998,Lorena Martins,45,Rio de Janeiro,17472.83
+999,Ísis da Mata,60,Curitiba,3513.81
+1000,Zoe Rios,57,Belo Horizonte,20254.3
